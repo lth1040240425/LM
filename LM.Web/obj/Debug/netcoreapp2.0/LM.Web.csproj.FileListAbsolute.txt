@@ -1,0 +1,11 @@
+F:\NetCore\LM\LM.Web\bin\Debug\netcoreapp2.0\LM.Web.deps.json
+F:\NetCore\LM\LM.Web\bin\Debug\netcoreapp2.0\LM.Web.runtimeconfig.json
+F:\NetCore\LM\LM.Web\bin\Debug\netcoreapp2.0\LM.Web.runtimeconfig.dev.json
+F:\NetCore\LM\LM.Web\bin\Debug\netcoreapp2.0\LM.Web.dll
+F:\NetCore\LM\LM.Web\bin\Debug\netcoreapp2.0\LM.Web.pdb
+F:\NetCore\LM\LM.Web\obj\Debug\netcoreapp2.0\LM.Web.csprojResolveAssemblyReference.cache
+F:\NetCore\LM\LM.Web\obj\Debug\netcoreapp2.0\LM.Web.csproj.CoreCompileInputs.cache
+F:\NetCore\LM\LM.Web\obj\Debug\netcoreapp2.0\LM.Web.AssemblyInfoInputs.cache
+F:\NetCore\LM\LM.Web\obj\Debug\netcoreapp2.0\LM.Web.AssemblyInfo.cs
+F:\NetCore\LM\LM.Web\obj\Debug\netcoreapp2.0\LM.Web.dll
+F:\NetCore\LM\LM.Web\obj\Debug\netcoreapp2.0\LM.Web.pdb
