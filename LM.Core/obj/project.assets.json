@@ -3110,7 +3110,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.mkurl.cn/nuget": {},
         "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
